@@ -1,4 +1,4 @@
-# **PHYS 139 Project**
+# Supercond Prediction Project**
 
 ## **Overview**
 
