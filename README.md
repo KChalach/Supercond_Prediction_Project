@@ -1,4 +1,4 @@
-# Supercond Prediction Project
+# Superconductivity Prediction Project
 
 ## **Overview**
 
